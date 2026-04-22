@@ -2,14 +2,18 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
 
 ## All Projects:
 Data Cleaning/Analysis:
-synthetic turf fields
 
-13 reasons why content/audience analysis
+#synthetic turf fields
+
+#
+
+#13 reasons why content/audience analysis
 
 Fun simulations/apps:
-santa tracker
 
-tkinter internet radio streaming app
+#santa tracker
+
+#tkinter internet radio streaming app
 
 
 
@@ -28,7 +32,7 @@ tkinter internet radio streaming app
 
 #Through further exploration of the importance of data and research in the media and entertainment fields, I have developed a passion for working with real-world, human-centered data.
 
-#snippet of psychology oriented data
+#snippet of synthetic turf field data
 
 #In the media world, users create trends, help shape which content gets created and define what is considered popular. At the same time, companies collect data in order to better understand user demographics, product usage, and social impact. Technology develops quickly - scientific research and data science must keep investigating its impact to support a healthy and ethical relationship.
 
