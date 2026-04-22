@@ -3,10 +3,12 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
 ## All Projects:
 Data Cleaning/Analysis:
 synthetic turf fields
+
 13 reasons why content/audience analysis
 
 Fun simulations/apps:
 santa tracker
+
 tkinter internet radio streaming app
 
 
