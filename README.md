@@ -5,8 +5,6 @@ Data Cleaning/Analysis:
 
 #synthetic turf fields
 
-#
-
 #13 reasons why content/audience analysis
 
 Fun simulations/apps:
