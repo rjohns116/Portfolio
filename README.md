@@ -1,8 +1,5 @@
 Hi! My name is Rachael Johnson and welcome to my data portfolio.
 
-Full Project List:
-
-
 #I have a background in Biopsychology and Film and Media Studies. I study psychology, like the brain and human behavior, as well as media like the news, radio, TV, film, and music and the impact that it has on individuals, culture and society. 
 
 #Understanding human psychology including how people think about, use and interact with products through data is the backbone of the media industry. Users create trends, help shape which content gets created and define what is considered popular. Capturing and utilizing this data in order to create more personal and useful experiences is fundamental to building services that responds in real time to user preferences.
