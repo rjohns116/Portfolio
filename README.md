@@ -4,14 +4,12 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
 ## All Projects:
 
 - Data cleaning and analysis:
-    - 
     - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2)
       - A public health analysis to understand quality and availability of synthetic Turf fields in NYC.
 
 - Fun simulations/apps:
     - [Santa Tracker](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
-      - Command-line interface version of popular Santa Tracker simulation
-  
+       - Command-line interface version of popular Santa Tracker simulation
     - tkinter internet radio streaming app
 
 
@@ -47,6 +45,7 @@ I see a growing need in the industry for **applied psychology** - using behavior
 Psychology and neuroscience research can also help media professionals better understand how human brains are affected by an ever-present influence of media and technology and how it shapes our social and emotional understanding of the world.
 
 ### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a **people-oriented, customer-focused space** in the future to create better services, products and outcomes for human well-being.
+
 
 ## Contact
 👤 [LinkedIn](www.linkedin.com/in/rachael-johnson-61637a210)
