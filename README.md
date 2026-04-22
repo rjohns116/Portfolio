@@ -25,9 +25,7 @@ I have a background in Biopsychology and Film and Media Studies. I study **psych
 
 Through further exploration of the importance of data and research in the media and entertainment fields, I have developed a passion for working with **real-world, human-centered** data.
 
-![turf field data](turf_field_data.png)
-
-> (In my [NYC Synthetic Turf Fields project](https://github.com/rjohns116/Project-2), I explored data about usage and availability of synthetic turf fields, a high-quality public health resource, in New York City.)
+#data screenshot of 13 reasons why data
 
 ### Why is this data important?
 
