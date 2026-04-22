@@ -3,12 +3,13 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
 ## All Projects:
 
 - Data cleaning and analysis:
-    - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2) 
-    - 13 reasons why
+    - 
+    - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2)
+          - A public health analysis to understand quality and availability of synthetic Turf fields in NYC.
 
 - Fun simulations/apps:
     - [Santa Tracker](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker) - command-line interface simulation
-
+    - 
     - tkinter internet radio streaming app
 
 
