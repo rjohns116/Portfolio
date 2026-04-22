@@ -12,6 +12,7 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
 
 ## Education
 #B.S. in Biopsychology and Film and Media Studies (expected May 2027)
+
 #CS50 Introduction to Programming with Python
 
 ## About
