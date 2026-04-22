@@ -47,7 +47,7 @@ Psychology and neuroscience research can also help media professionals better un
 
 ### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a **people-oriented, customer-focused space** in the future to create better services, products and outcomes for human well-being.
 
->💡**Fun fact:** Currently, I am curious about UX research methodologies and frameworks to understand user behavior and create better product experiences.
+💡**Fun fact:** Currently, I am curious about UX research methodologies and frameworks to understand user behavior and create better product experiences.
 
 
 
