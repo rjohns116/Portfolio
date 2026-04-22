@@ -12,12 +12,6 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
     - tkinter internet radio streaming app
 
 
-
-
-
-
-
-
 ## Education
 
 - B.S. in Biopsychology and Film and Media Studies - Tufts University (expected May 2027)
@@ -31,7 +25,7 @@ I have a background in Biopsychology and Film and Media Studies. I study **psych
 
 Through further exploration of the importance of data and research in the media and entertainment fields, I have developed a passion for working with **real-world, human-centered** data.
 
-![alt text](.github/images/image-1.png)
+![turf field data](turf_field_data.png)
 
 > (In my [NYC Synthetic Turf Fields project](https://github.com/rjohns116/Project-2), I explored data about usage and availability of synthetic turf fields, a high-quality public health resource, in New York City.)
 
@@ -52,7 +46,6 @@ I see a growing need in the industry for **applied psychology** - using behavior
 Psychology and neuroscience research can also help media professionals better understand how human brains are affected by an ever-present influence of media and technology and how it shapes our social and emotional understanding of the world.
 
 ### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a **people-oriented, customer-focused space** in the future to create better services, products and outcomes for human well-being.
-
 
 >💡**Fun fact:** Currently, I am curious about UX research methodologies and frameworks to understand user behavior and create better product experiences.
 
