@@ -21,9 +21,12 @@ Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdi
 
 
 ## Education
-#B.S. in Biopsychology and Film and Media Studies (expected May 2027)
 
-#CS50 Introduction to Programming with Python
+B.S. in Biopsychology and Film and Media Studies at Tufts University (expected May 2027)
+
+High school diploma from Saint Paul Academy (2015-2019)
+
+Completion of [CS50's Introduction to Programming with Python](file:///C:/Users/rlynj/OneDrive/Desktop/CS50P%20Certificate.pdf)
 
 ## About
 #I have a background in Biopsychology and Film and Media Studies. I study psychology, like the brain and human behavior, as well as media like the news, radio, TV, film, music and more and the impact that it has on individuals, culture and society. 
