@@ -1,17 +1,17 @@
 Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdisciplinary psychology and media researcher using data to create better products, services and platforms and user experiences.
 
 ## All Projects:
-Data Cleaning/Analysis:
+**Data Cleaning and Analysis**
 
-#synthetic turf fields
+- synthetic turf fields
 
-#13 reasons why content/audience analysis
+- 13 reasons why
 
-Fun simulations/apps:
+**Fun simulations/apps**
 
-#santa tracker
+![Santa Tracker](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
 
-#tkinter internet radio streaming app
+- tkinter internet radio streaming app
 
 
 
