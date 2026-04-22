@@ -1,16 +1,17 @@
 Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdisciplinary psychology and media researcher using data to create better products, services and platforms and user experiences.
 
+
 ## All Projects:
 
 - Data cleaning and analysis:
     - 
     - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2)
-      
-          - A public health analysis to understand quality and availability of synthetic Turf fields in NYC.
+      - A public health analysis to understand quality and availability of synthetic Turf fields in NYC.
 
 - Fun simulations/apps:
-    - [Santa Tracker](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker) - command-line interface simulation
-    - 
+    - [Santa Tracker](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
+      - Command-line interface version of popular Santa Tracker simulation
+  
     - tkinter internet radio streaming app
 
 
@@ -47,7 +48,9 @@ Psychology and neuroscience research can also help media professionals better un
 
 ### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a **people-oriented, customer-focused space** in the future to create better services, products and outcomes for human well-being.
 
->💡**Fun fact:** Currently, I am curious about UX research methodologies and frameworks to understand user behavior and create better product experiences.
+## Contact
+👤 [LinkedIn](www.linkedin.com/in/rachael-johnson-61637a210)
+📧 Email: rlynjohnson6@gmail.com
 
 
 
