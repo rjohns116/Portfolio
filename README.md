@@ -1,4 +1,4 @@
-Hello and welcome to my data portfolio! My name is Rachael Johnson and I am an interdisciplinary psychology and media researcher using data to create better products, services, content, platforms and user experiences.
+Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an interdisciplinary psychology and media researcher using data to create better products, services, content, platforms and user experiences.
 
 
 ## All Projects:
