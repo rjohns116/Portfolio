@@ -11,7 +11,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an inte
    
     
 
-- Fun simulations/apps:
+- Simluations/apps:
     - [Santa Tracker](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
        - Command-line interface version of popular Santa Tracker simulation
     - tkinter internet radio streaming app
