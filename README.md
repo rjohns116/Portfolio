@@ -1,13 +1,14 @@
-Hi! My name is Rachael Johnson and welcome to my data portfolio. I am an interdisciplinary psychology and media researcher using data to create better products, services and platforms and user experiences.
+Hello and welcome to my data portfolio! My name is Rachael Johnson and I am an interdisciplinary psychology and media researcher using data to create better products, services, content, platforms and user experiences.
 
 
 ## All Projects:
 
 - Data cleaning and analysis:
-    - Psychology related lab dataset
     - Canadian audience measurement
+    - Psychology related lab dataset
     - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2)
       - A public health analysis to understand quality and availability of synthetic turf fields in NYC.
+   
     
 
 - Fun simulations/apps:
