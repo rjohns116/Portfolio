@@ -5,7 +5,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an inte
 
 - Data cleaning and analysis:
     - Canadian audience measurement
-    - Psychology related lab dataset
+    - Cognitive Conflict and Reward
     - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2)
       - A public health analysis to understand quality and availability of synthetic turf fields in NYC.
    
@@ -43,13 +43,14 @@ Technology develops quickly - scientific research and data science must keep inv
 ### How can psychology research help us better understand media and technology?
 I see a growing need in the industry for **applied psychology** - using behavioral science to understand how people engage with technology. The media industry relies heavily on understanding how people think about, use and interact with products and content through data. By conducting research, scientists can visualize and interpret the **health** or **behavioral** implications of certain content, products, platforms or services.
 
-#example visualization from psychology lab dataset
+#example visualization from Cognitive Conflict and Reward project
 
 
 Psychology and neuroscience research can also help media professionals better understand how human brains are affected by an ever-present influence of media and technology and how it shapes our social and emotional understanding of the world.
 
-### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a **people-oriented, customer-focused space** in the future to create better services, products and outcomes for human well-being.
+### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a *people-oriented, customer-focused* space in the future to create better services, products and outcomes for human well-being.
 
+Please feel free to contact me below!
 
 ## Contact
 👤 [LinkedIn](www.linkedin.com/in/rachael-johnson-61637a210)
