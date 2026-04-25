@@ -13,7 +13,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an inte
 
 - Simluations/apps:
     - [Santa Tracker - CS50 Final Project](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
-       - Command-line interface version of popular Santa Tracker simulation
+       - Command-line interface version of the popular Santa Tracker simulation game
 
 
 ## Education
