@@ -6,7 +6,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an inte
 - Data cleaning and analysis:
     - Canadian audience measurement
     - Cognitive Conflict and Reward
-    - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/Project-2)
+    - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/NYC-OpenData-Synthetic-Turf-Fields-Exploration-and-Analysis)
       - A public health analysis to understand quality and availability of synthetic turf fields in NYC.
    
     
