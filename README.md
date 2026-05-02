@@ -29,7 +29,10 @@ My academic background is in Biopsychology and Film and Media Studies. I study *
 
 Through further exploration of the importance of data and research in the media and entertainment fields, I have developed a passion for working with **real-world, human-centered** data.
 
-#data screenshot of canadian audience measurement
+<img width="704" height="294" alt="image" src="https://github.com/user-attachments/assets/12f5a391-cdee-4d92-a34e-fd4cb2a4c598" />
+
+Image 1: A sample of data analyzed in the [Canadian Traditional Media Audience Measurement]() project available on my profile.
+
 
 ### Why is this data important?
 
